@@ -1,75 +1,88 @@
-🌤 Weather App
+# 🌤 Weather App
 
-A simple and intuitive weather application built using React and Vite. This app fetches real-time weather data and displays it in a user-friendly interface.
+A **simple and intuitive** weather application built using **React** and **Vite**. This app fetches real-time weather data and displays it in a user-friendly interface.
 
-🚀 Live Demo
+---
 
-🔗 Weather App
+## 🚀 Live Demo
 
-✨ Features
+🔗 **[Weather App](https://weather-app-nu-orpin-25.vercel.app/)**
 
-✔️ Displays current weather conditions
-✔️ Fetches real-time weather data from an API
-✔️ User-friendly interface with a clean design
-✔️ Fast and lightweight performance
+---
 
-🛠️ Technologies Used
+## ✨ Features
 
-🖥 React
+- ✔️ Displays **current weather conditions**
+- ✔️ Fetches **real-time weather data** from an API
+- ✔️ **User-friendly interface** with a clean design
+- ✔️ **Fast and lightweight** performance
 
-⚡ Vite
+---
 
-💻 JavaScript
+## 🛠️ Technologies Used
 
-🎨 CSS
+- 🖥 **React**
+- ⚡ **Vite**
+- 💻 **JavaScript**
+- 🎨 **CSS**
+- 🌍 **Weather API**
 
-🌍 Weather API
+---
 
-📥 Installation
+## 📥 Installation
 
 Follow these steps to run the project locally:
 
-Clone the repository:
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/your-username/weather-app.git
+   ```
+2. **Navigate to the project directory:**
+   ```sh
+   cd weather-app
+   ```
+3. **Install dependencies:**
+   ```sh
+   npm install
+   ```
+4. **Start the development server:**
+   ```sh
+   npm run dev
+   ```
+5. **Open your browser and go to:**
+   ```
+   http://localhost:5173/
+   ```
 
-git clone https://github.com/your-username/weather-app.git
+---
 
-Navigate to the project directory:
+## 🚀 Deployment
 
-cd weather-app
+The app is deployed on **Vercel**. To deploy your own version:
 
-Install dependencies:
+1. **Build the project:**
+   ```sh
+   npm run build
+   ```
+2. **Deploy to Vercel:**
+   ```sh
+   vercel --prod
+   ```
 
-npm install
+---
 
-Start the development server:
+## 🤝 Contributing
 
-npm run dev
+- 🔹 Feel free to **submit issues** or contribute by creating a **pull request**.
 
-Open your browser and go to:
+---
 
-http://localhost:5173/
+## 📜 License
 
-🚀 Deployment
+📝 This project is licensed under the **MIT License**.
 
-The app is deployed on Vercel. To deploy your own version:
+---
 
-Build the project:
+## 📩 Contact
 
-npm run build
-
-Deploy to Vercel:
-
-vercel --prod
-
-🤝 Contributing
-
-🔹 Feel free to submit issues or contribute by creating a pull request.
-
-📜 License
-
-📝 This project is licensed under the MIT License.
-
-📩 Contact
-
-📧 For any queries or suggestions, feel free to reach out!
-
+📧 For any queries or suggestions, feel free to **reach out!**
